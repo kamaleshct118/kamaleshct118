@@ -19,8 +19,8 @@ DUMMY
 
 ## 👋 Introduction
 
-I'm **Kamalesh**, a passionate learner and aspiring **Software Developer** who enjoys building practical projects and strengthening core programming skills.  
-I focus on **fundamentals, hands-on coding, and real-world problem solving**, continuously improving through projects and experimentation.
+I'm **Kamalesh**, a passionate learner and aspiring **AI Developer** who enjoys building practical projects and strengthening core programming skills.  
+I focus on **fundamentals and real-world problem solving**, continuously improving through projects and experimentation.
 
 ---
 
@@ -74,7 +74,7 @@ I focus on **fundamentals, hands-on coding, and real-world problem solving**, co
 
 ## 🧑‍💻 About Me
 
-- 🌱 Currently learning **Python, Web Development & Core Programming**
+- 🌱 Currently learning **Python, Web Development & Core Programming,AI,RAG,Agent Building**
 - 🔭 Working on **practice projects and mini-applications**
 - 💬 Interested in **logic building, clean code & fundamentals**
 - ⚡ Fun fact: Consistency > Motivation 😄
