@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0a0a,40:1a1a1a,70:C9A84C,100:FFD700&text=KRISHNAPRASATH&fontSize=52&fontColor=FFD700&animation=twinkling&fontAlignY=35&desc=⚡%20AI%20ENGINEER%20⚡&descSize=20&descAlignY=58&textBg=false&stroke=FFD700&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0a0a,40:1a1a1a,70:C9A84C,100:FFD700&text=KAMALESH%20V&fontSize=52&fontColor=FFD700&animation=twinkling&fontAlignY=35&desc=⚡%20AI%20ENGINEER%20⚡&descSize=20&descAlignY=58&textBg=false&stroke=FFD700&strokeWidth=2"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE...;AI+ENGINEER+%7C+MACHINE+LEARNING;AGENTIC+AI+%7C+GENAI+%7C+CLOUD;Tough+times+grow+softer+through+steady+effort.;INITIALIZING+NEURAL+NETWORKS...;DEPLOYING+TO+PRODUCTION..." alt="Typing SVG" />
@@ -9,9 +9,9 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Krishna4123&style=for-the-badge&color=brightgreen" />
-  <img src="https://img.shields.io/github/followers/Krishna4123?style=for-the-badge&color=orange&labelColor=black" />
-  <img src="https://img.shields.io/github/stars/Krishna4123?affiliations=OWNER&style=for-the-badge&color=yellow&labelColor=black" />
+  <img src="https://komarev.com/ghpvc/?username=kamaleshct118&style=for-the-badge&color=brightgreen" />
+  <img src="https://img.shields.io/github/followers/kamaleshct118?style=for-the-badge&color=orange&labelColor=black" />
+  <img src="https://img.shields.io/github/stars/kamaleshct118?affiliations=OWNER&style=for-the-badge&color=yellow&labelColor=black" />
 </div>
 
 <br/>
@@ -48,20 +48,20 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Krishna4123&show_icons=true&count_private=true&theme=dark&border_radius=10&border_color=FFD700&bg_color=0a0a0a&title_color=FFD700&text_color=C0C0C0&icon_color=FFD700&cache_seconds=7200" alt="Krishna4123's GitHub Stats" height="180em" />
-  <img src="https://streak-stats.demolab.com/?user=Krishna4123&theme=dark&hide_border=false&border=FFD700&background=0a0a0a&ring=FFD700&fire=FFA500&currStreakLabel=FFD700&sideLabels=C0C0C0&dates=808080&cache_seconds=86400" alt="Krishna4123's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kamaleshct118&show_icons=true&count_private=true&theme=dark&border_radius=10&border_color=FFD700&bg_color=0a0a0a&title_color=FFD700&text_color=C0C0C0&icon_color=FFD700&cache_seconds=7200" alt="Kamalesh V's GitHub Stats" height="180em" />
+  <img src="https://streak-stats.demolab.com/?user=kamaleshct118&theme=dark&hide_border=false&border=FFD700&background=0a0a0a&ring=FFD700&fire=FFA500&currStreakLabel=FFD700&sideLabels=C0C0C0&dates=808080&cache_seconds=86400" alt="Kamalesh V's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Krishna4123&langs_count=8&layout=compact&theme=dark&border_radius=10&border_color=FFD700&bg_color=0a0a0a&title_color=FFD700&text_color=C0C0C0&cache_seconds=7200" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kamaleshct118&langs_count=8&layout=compact&theme=dark&border_radius=10&border_color=FFD700&bg_color=0a0a0a&title_color=FFD700&text_color=C0C0C0&cache_seconds=7200" alt="Top Languages" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Krishna4123&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4&cache_seconds=86400&column=7" alt="KRISHNAPRASATH's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=kamaleshct118&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4&cache_seconds=86400&column=7" alt="Kamalesh V's GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna4123&theme=github-compact&radius=10&color=FFD700&line=C9A84C&point=FFFFFF&area=true&area_color=1a1a1a&bg_color=0a0a0a" alt="Krishna4123's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kamaleshct118&theme=github-compact&radius=10&color=FFD700&line=C9A84C&point=FFFFFF&area=true&area_color=1a1a1a&bg_color=0a0a0a" alt="Kamalesh V's Activity Graph" />
 </p>
 
 <p align="center">
@@ -101,13 +101,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />
 </p>
 
-<h3 align="center">☁️ DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" />
-</p>
-
 <h3 align="center">🔧 Tools</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;
@@ -129,25 +122,25 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/krishnaprasath-s-k-7800a8273/">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;
-  <a href="https://x.com/Krishna53257400">
+  <a href="https://x.com/YOUR-TWITTER-HANDLE">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
   </a>&nbsp;
-  <a href="https://wa.me/916383084896">
+  <a href="https://wa.me/YOUR-WHATSAPP-NUMBER">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
   </a>&nbsp;
-  <a href="mailto:krishnaprasath42213@gmail.com">
+  <a href="mailto:YOUR-EMAIL@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;
-  <a href="https://noir-motion-studio.vercel.app/">
+  <a href="https://YOUR-WEBSITE-URL.com/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/krishna4422" target="_blank">
+  <a href="https://www.buymeacoffee.com/YOUR-USERNAME" target="_blank">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" />
   </a>
 </p>
