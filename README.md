@@ -1,4 +1,8 @@
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="kamaleshct118's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0a0a,40:1a1a1a,70:C9A84C,100:FFD700&text=KAMALESH%20V&fontSize=52&fontColor=FFD700&animation=twinkling&fontAlignY=35&desc=⚡%20AI%20ENGINEER%20⚡&descSize=20&descAlignY=58&textBg=false&stroke=FFD700&strokeWidth=2"/>
 
@@ -27,13 +31,11 @@
 </p>
 
 ## 📌 About Me
-
 - Passionate about AI, ML, Deep Learning, Cloud & Automation
 - Currently exploring Agentic AI, GenAI, Cloud Engineering, and DSA
 - I love building clean, scalable, production-oriented solutions
 
 ## 🧠 My Focus Areas
-
 - Building scalable AI & ML systems for real-world applications
 - Exploring Agentic AI and autonomous workflows
 - Developing production-ready GenAI applications with RAG & LLMs
@@ -48,8 +50,11 @@
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
+  <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="100%" alt="AI Futurism" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kamaleshct118&show_icons=true&count_private=true&theme=dark&border_radius=10&border_color=FFD700&bg_color=0a0a0a&title_color=FFD700&text_color=C0C0C0&icon_color=FFD700&cache_seconds=7200" alt="Kamalesh V's GitHub Stats" height="180em" />
-  
   <img src="https://streak-stats.demolab.com/?user=kamaleshct118&theme=dark&hide_border=false&border=FFD700&background=0a0a0a&ring=FFD700&fire=FFA500&currStreakLabel=FFD700&sideLabels=C0C0C0&dates=808080&cache_seconds=86400" alt="Kamalesh V's GitHub Streak" width="49%" />
 </p>
 
@@ -81,7 +86,7 @@
 <h3 align="center">🖥️ Frontend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="Next.js" width="40" />&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
@@ -90,13 +95,13 @@
 <h3 align="center">⚙️ Backend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;
-  <img src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express.js" width="40" />&nbsp;
-  <img src="https://cdn.simpleicons.org/flask/FFFFFF" alt="Flask" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />
 </p>
 
 <h3 align="center">🗄️ Database</h3>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/mysql/00A4E4" alt="MySQL" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />
@@ -126,19 +131,15 @@
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;
-
   <a href="https://x.com/YOUR-TWITTER-HANDLE">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
   </a>&nbsp;
-
   <a href="https://wa.me/YOUR-WHATSAPP-NUMBER">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
   </a>&nbsp;
-
   <a href="mailto:YOUR-EMAIL@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;
-
   <a href="https://YOUR-WEBSITE-URL.com/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
