@@ -45,9 +45,11 @@
 
 ## 📊 GitHub Stats & Trophies
 
-<p align="center">
-  <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="100%" alt="AI Futurism" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="kamaleshct118's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kamaleshct118&show_icons=true&count_private=true&theme=dark&border_radius=10&border_color=FFD700&bg_color=0a0a0a&title_color=FFD700&text_color=C0C0C0&icon_color=FFD700&cache_seconds=7200" alt="Kamalesh V's GitHub Stats" height="180em" />
