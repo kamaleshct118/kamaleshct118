@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="kamaleshct118's GitHub profile" src="dark_mode.svg" />
-</picture>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0a0a,40:1a1a1a,70:C9A84C,100:FFD700&text=KAMALESH%20V&fontSize=52&fontColor=FFD700&animation=twinkling&fontAlignY=35&desc=⚡%20AI%20ENGINEER%20⚡&descSize=20&descAlignY=58&textBg=false&stroke=FFD700&strokeWidth=2"/>
 
@@ -31,11 +27,13 @@
 </p>
 
 ## 📌 About Me
+
 - Passionate about AI, ML, Deep Learning, Cloud & Automation
 - Currently exploring Agentic AI, GenAI, Cloud Engineering, and DSA
 - I love building clean, scalable, production-oriented solutions
 
 ## 🧠 My Focus Areas
+
 - Building scalable AI & ML systems for real-world applications
 - Exploring Agentic AI and autonomous workflows
 - Developing production-ready GenAI applications with RAG & LLMs
@@ -51,6 +49,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kamaleshct118&show_icons=true&count_private=true&theme=dark&border_radius=10&border_color=FFD700&bg_color=0a0a0a&title_color=FFD700&text_color=C0C0C0&icon_color=FFD700&cache_seconds=7200" alt="Kamalesh V's GitHub Stats" height="180em" />
+  
   <img src="https://streak-stats.demolab.com/?user=kamaleshct118&theme=dark&hide_border=false&border=FFD700&background=0a0a0a&ring=FFD700&fire=FFA500&currStreakLabel=FFD700&sideLabels=C0C0C0&dates=808080&cache_seconds=86400" alt="Kamalesh V's GitHub Streak" width="49%" />
 </p>
 
@@ -127,15 +126,19 @@
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;
+
   <a href="https://x.com/YOUR-TWITTER-HANDLE">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
   </a>&nbsp;
+
   <a href="https://wa.me/YOUR-WHATSAPP-NUMBER">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
   </a>&nbsp;
+
   <a href="mailto:YOUR-EMAIL@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;
+
   <a href="https://YOUR-WEBSITE-URL.com/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
