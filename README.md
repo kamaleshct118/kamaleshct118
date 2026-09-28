@@ -1,13 +1,7 @@
 ## ✦ Explore My Portfolio
 
 <p align="center">
-  <a href="https://myportfolio-new-pi.vercel.app/#overview">
-    <img
-      src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/main/assets/portfolio-demo.gif"
-      width="900"
-      alt="Interactive preview of my portfolio"
-    />
-  </a>
+  <video src="assets/portfolio.webm" autoplay loop muted playsinline width="900"></video>
 </p>
 
 <p align="center">
