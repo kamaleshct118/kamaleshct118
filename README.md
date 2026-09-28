@@ -1,7 +1,7 @@
 ## ✦ Explore My Portfolio
 
 <p align="center">
-  <video src="assets/portfolio.webm" autoplay loop muted playsinline width="900"></video>
+  <video src="https://github.com/kamaleshct118/kamaleshct118/raw/main/assets/portfolio.webm" autoplay loop muted playsinline width="900"></video>
 </p>
 
 <p align="center">
