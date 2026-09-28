@@ -1,7 +1,9 @@
 ## ✦ Explore My Portfolio
 
 <p align="center">
-  <video src="https://github.com/kamaleshct118/kamaleshct118/raw/main/assets/portfolio.webm" autoplay loop muted playsinline width="900"></video>
+  <a href="https://myportfolio-new-pi.vercel.app/#overview">
+    <img src="assets/portfolio-demo.gif" width="900" alt="Interactive preview of my portfolio" />
+  </a>
 </p>
 
 <p align="center">
